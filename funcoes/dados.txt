@@ -1,0 +1,5 @@
+Nome: Igor Rodrigues de Araujo
+Idade: 32 anos
+Sexo: Masculino
+Profissão: Desenvedor frontend/Designer
+Estado Civil: Casado
